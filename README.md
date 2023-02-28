@@ -21,6 +21,8 @@ In order to use MySQL DataBase for CRUD operations, it is recommended to install
 
 ![alt text](https://github.com/sahith0007/FastAPI-CRUD-APP/blob/main/Screenshot%20(60).png?raw=true)
 
+To download XAMPP server click [here](https://www.apachefriends.org/download.html)
+
 
 ## Run the app
 There are multiple options available when running the app.
