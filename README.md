@@ -19,7 +19,7 @@ Once the virtual environment is activated simply run `pip install -r requirement
 ## MySQL DataBase
 In order to use MySQL DataBase for CRUD operations, it is recommended to install XAMPP server to use the MYSQL server on port 3306(Default)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sahith0007/FastAPI-CRUD-APP/blob/main/Screenshot%20(60).png?raw=true)
 
 
 ## Run the app
