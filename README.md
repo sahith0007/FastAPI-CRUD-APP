@@ -1,5 +1,5 @@
 # FastAPI-CRUD-APP
-A simple CRUD operation API
+This is a simple API built with FastAPI for performing CRUD (Create, Read, Update, Delete) operations on a todo list
 
 ## Installation
 In order to run the app, it is recommended you first create and activate a virtual environment:
